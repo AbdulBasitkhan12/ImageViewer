@@ -31,6 +31,7 @@ public class GalleryAdapter extends BaseAdapter {
     @Override
     public Object getItem(int position) {
         return mArrayUri.get(position);
+        //sddasdss
     }
 
     @Override
